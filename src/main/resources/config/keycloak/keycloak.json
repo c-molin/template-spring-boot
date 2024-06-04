@@ -1,0 +1,9 @@
+{
+  "realm": "master",
+  "auth-server-url": "http://host.docker.internal:8010",
+  "resource": "template-resource-id",
+  "credentials": {
+    "secret": "2gcNBJOXybYW8g1SLE9e1quh9UPvKlQL"
+  },
+  "http-method-as-scope": true
+}
